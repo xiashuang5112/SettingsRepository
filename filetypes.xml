@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="activity.svg" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
